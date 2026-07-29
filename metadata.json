@@ -1,0 +1,6 @@
+{
+  "name": "Priya Password Vault",
+  "description": "Secure zero-knowledge encrypted password manager vault with strength analyzer, password generator, and categorized storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
